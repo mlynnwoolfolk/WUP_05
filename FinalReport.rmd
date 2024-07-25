@@ -75,7 +75,7 @@ fisher.test(table1)
 ```
 The P-value is 0.0000001242, therefore less than 0.05. TriUmpsal has a positive affect on the prevention of AIDS. 
 
-The fisher test has a 95% confidence interval. 
+The fisher test has a 95% confidence interval. As well as the results suggest a statistically significant association between the two categorical variables, with an odds ratio significantly different from 1. The odds ratio of 0.353 suggests that the event is less likely in one group compared to the other, and the confidence interval indicates that this association is strong and not due to random chance.
 
 # Discussion and Conclusion
 Based on the graphical and numerical analyses conducted, we discussed the implications of our findings that regard the effectiveness of triUmpsal in preventing AIDS among DrugUsers. If a relationship was found we considered whether th treatment might be casually linked to the reduced infection rates or if other factors could explain the observed association.
